@@ -11,7 +11,7 @@ In conclusion, to have a successful campaign the best time to launch would be in
 
 This data is not representative of all crowdfunding ventures since it is coming from one source. The sample size is not large, and it may be biased as it seems like the theatre ventures are the most popular in this data set.  A solution to both limitations is to pull data from other crowd funding sources.
 
-Also, the dataset is outdated and only goes up to the year 2020 which is prior to a major shift in the public since it was pre-pandemic. We would need newer data from the most recent years to get a better landscape of present dat.
+Also, the dataset is outdated and only goes up to the year 2020 which is prior to a major shift in the public since it was pre-pandemic. We would need newer data from the most recent years to get a better landscape of present data.
 
 3) What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 
