@@ -1,5 +1,6 @@
 # Excel-Challenge
-Line Graph Questions
+
+# Line Graph Questions
 1) Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns?
 
 The best time to launch a successful campaign is in the months of June and July with July being the best for outcome of success. Campaigns are less likely to fail in September. The success rate is higher than that of the rate of failure in general. Not a lot of campaigns end up being cancelled. Goals between 1000-4999 (high number of projects fell in this range) had a higher chance of success followed by goals between 15,000-34,999 (low number of projects fell in this range). Theatre tends to be the most common project that is crowd funded with plays being the most popular with a success rate of 53%. 
@@ -14,7 +15,7 @@ We could have done a pie chart to determine as a whole of all the projects that 
 Bar and line charts are typically the best and most descriptive chart options.
 
 
-Variability Data Questions
+# Variability Data Questions
 1) Use your data to determine whether the mean or the median better summarizes the data.
 
 I think the median gives a more accurate representation of the data as there are a lot of outliers for both successful campaigns and failed campaigns.
